@@ -1,0 +1,74 @@
+#navbar{
+    background-color: #Fff2cc;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: rgb(255, 228, 169);
+ }
+ 
+
+.carouselimage{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+}
+
+#Reviews{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #F4b183;
+}
+
+#Cards{
+    text-align: center;
+    background-color:  #f3e6be;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: rgb(255, 228, 169);
+}
+
+.btn-primary{}
+
+.nav-item{
+    
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.payment{
+    text-align: center;
+}
+
+.training{
+    padding-top: 90px;
+}
+
+#Boxes{
+    text-align: center;
+    background-color:  #f3e6be;
+}
+
+#footer{
+    background-color: #dfa67b;
+    color:  #fff;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1.25rem;
+}
